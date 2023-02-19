@@ -1,3 +1,5 @@
+
+import TaskList from "../TaskList/TaskList";
 import mainLogo from "./../../img/logo.jpg";
 const Intro = () => {
   return (
@@ -21,6 +23,9 @@ const Intro = () => {
           умею. Срочно нужно брать меня front'эндером на работу!
         </h2>
       </div>
+      <TaskList/>
+
+
     </>
   );
 };

@@ -19,3 +19,31 @@
   align-items: center;
   padding-top: 50px;
 }
+.task-list {
+  text-align: center;
+  margin-top: 20px;
+}
+.task {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.task__mainTitle {
+  text-align: center;
+  padding-top: 30px;
+  font-weight: bold;
+}
+.task__title {
+  text-align: center;
+  padding-top: 30px;
+}
+.task__imgBox {
+  margin-top: 20px;
+}
+.solution__title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.task__btn{
+  margin-top: 30px;
+}
