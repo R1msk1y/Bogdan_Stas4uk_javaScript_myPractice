@@ -20,6 +20,8 @@
   padding-top: 50px;
 }
 .task-list {
+  display: flex;
+  flex-direction: column;
   text-align: center;
   margin-top: 20px;
 }
@@ -44,6 +46,6 @@
   text-align: center;
   padding-bottom: 30px;
 }
-.task__btn{
+.task__btn {
   margin-top: 30px;
 }
