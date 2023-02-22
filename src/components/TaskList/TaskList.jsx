@@ -12,6 +12,7 @@ const TaskList = () => {
       <Link to="task_39">Задача 39. Перебор элементов массива</Link>
       <Link to="task_40">Задача 40. Конвертация JSON в JavaScript объекты</Link>
       <Link to="task_41">Задача 41. Поиск объектов в массиве</Link>
+      <Link to="task_43">Задача 43. Сравнение двух массивов</Link>
     </div>
   );
 };
